@@ -11,11 +11,12 @@ and JS. Although web development is a field of great learning, Mathematics and S
 
 Currently I identify myself as DATA SCIENTIST and apart from sitting and exploring and analysing data for hours, I do Dance, Poetry, Travelling and Cooking.
 
-I believe reading books and listening to audio books greatly help a person in developing insights, which I do often.
+I love solving questions about the programming language so I am often on HackerRank and LeetCode, Although I have not tried competetive coding but looking forward to it.
+Learning about new technology and going through Data to analyse and predict is something I do in my free time.
 
-I love riding bike and my last trip was to Darjeeling...
 
 EXTRA INTEREST:
 
-I love solving questions about the programming language so I am often on HackerRank and LeetCode, Although I have not tried competetive coding but looking forward to it.
-Learning about new technology and going through Data to analyse and predict is something I do in my free time.
+I believe reading books and listening to audio books greatly help a person in developing insights, which I do often.
+Badminton and Chess are my go-to things to do in weekends and cooking sometimes.
+I love riding bike and my last trip was to Darjeeling...
