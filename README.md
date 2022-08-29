@@ -12,8 +12,6 @@ Skills: PYTHON / JS / HTML / CSS
 - 💬 Ask me about Tech, because that's what excites me
 - ⚡ Fun fact: You don't get to choose your happiness, as happiness is not a choice but a state of mind. 
 
-![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
-
 ![](./profile-3d-contrib/profile-night-green.svg)
 
 
