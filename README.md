@@ -18,7 +18,7 @@ Skills: PYTHON / JS / HTML / CSS
 
 <hr>
 
-#Connect
+# Connect
 
 <a href="https://linkedin.com/in/sadhakvishu](https://www.linkedin.com/in/shishir-kumar-padhan-124617105/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sadhakvishu" height="30" width="40" /></a>
 
