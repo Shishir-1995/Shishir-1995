@@ -4,7 +4,7 @@
 
 I like solving puzzles and exploring new Places. Having conversation with computers is my Passion
 
-Skills: PYTHON / JS / HTML / CSS
+Skills: JAVA | JavaScript | HTML | CSS | Python
 
 - 🔭 I’m currently a student in Masai School, Bengaluru. 
 - 🌱 I’m currently learning Java 
