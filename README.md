@@ -33,7 +33,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shishir-1995&" alt="shishir-1995" /></p>
 
 ![](./profile-3d-contrib/profile-night-green.svg)
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Shishir-1995&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Shishir-1995&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-1995&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
 <hr>
